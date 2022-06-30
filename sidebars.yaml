@@ -38,6 +38,11 @@ training:
         page: developer-portal/mdx.mdx
       - label: Creating React components
         page: developer-portal/custom-component.mdx
+  - group: Leanpay Plugins
+    expanded: true
+    pages:
+      - label: WooCommerce
+        page: developer-portal/plugins/woocommerce
   - group: Petstore reference
     expanded: false
     pages:
