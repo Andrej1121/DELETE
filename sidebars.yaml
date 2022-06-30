@@ -42,7 +42,7 @@ training:
     expanded: true
     pages:
       - label: WooCommerce
-        page: developer-portal/plugins/woocommerce
+        page: developer-portal/plugins/woocommerce.md
   - group: Petstore reference
     expanded: false
     pages:
